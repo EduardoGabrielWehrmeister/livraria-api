@@ -4,7 +4,7 @@ Este projeto foi desenvolvido para aprimorar e expandir meus conhecimentos sobre
 
 Seguindo o tutorial fornecido pela Microsoft, este projeto combina o framework Entity Framework com o MongoDB, proporcionando uma integração entre os dois.
 
-A API resultante oferece funcionalidades completas de CRUD para gerenciar livros em uma livraria.
+A API resultante oferece funcionalidades CRUD para gerenciar livros em uma livraria.
 
 Para consolidar os conhecimentos adquiridos nos estudos relacionados ao MongoDB, fiz anotações na ferramenta Notion. Ficarei feliz em compartilhá-las com você.
 
